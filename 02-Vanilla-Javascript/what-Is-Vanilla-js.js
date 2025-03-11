@@ -50,7 +50,6 @@ function CounterApp() {
         </div>
     );
 }
-
 export default CounterApp;
 
 // Here, React's useState hook is used, which adds extra abstraction. However, in Vanilla JavaScript, the same functionality can be achieved without any library.
