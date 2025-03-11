@@ -9,7 +9,7 @@
 // If you ever need to add custom functionality or plugins to a library, it will be difficult without a solid understanding of Vanilla JavaScript.
 
 // 4. Working with Hardware or Platform APIs
-// Sometimes, you may need to work with system APIs like GPS, Camera, File System, Bluetooth, or Speech Recognition. Since libraries do not cover every functionality, Vanilla JavaScript is essential for such tasks.
+// Sometimes you may need to work with system APIs like GPS, Camera, File System, Bluetooth, or Speech Recognition. Since libraries do not cover every functionality, Vanilla JavaScript is essential for such tasks.
 
 // 5. Becoming a Better Web Developer
 // Recruiters and companies value developers with Vanilla JavaScript skills because they know such developers can work without relying entirely on libraries.
