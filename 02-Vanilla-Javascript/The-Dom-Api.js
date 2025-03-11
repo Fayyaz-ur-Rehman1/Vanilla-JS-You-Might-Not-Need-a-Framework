@@ -6,7 +6,6 @@
 
 // 1. What is the DOM (Document Object Model)?
 //    - When we write an HTML file and the browser loads it, the browser creates an internal representation called the DOM Tree.
-
 // Example:
 
 // <!DOCTYPE html>
